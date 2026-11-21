@@ -478,7 +478,7 @@ plt.show()
 
 **Result: chart**
 
-!rfm_segments.png
+![alt text](rfm_segments.png)
 
 <aside>
 💡
